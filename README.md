@@ -28,13 +28,10 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 - **M.S., Data Science** at University of Virginia (Graduating May 2025)
 - **B.A., Applied Statistics - Business and Finance** (Graduated May 2024)
 
-## 🌱 Current Focus
-- Enhancing my machine learning models with complex feature engineering.
-- Preparing for my final round interview for **Bank of America's 2025 Global Quantitative Analytics Analyst Program**.
-
 ## 📫 Connect with Me
 - **LinkedIn**: [Tyler Gorecki](https://linkedin.com/in/tylergorecki)
 - **GitHub**: [github.com/tylergorecki](https://github.com/tylergorecki)
+- **Twitter**: [x.com/tg_analytics](https://x.com/tg_analytics)
 
 I'm excited to connect with fellow data enthusiasts and collaborate on projects that blend analytics, finance, and technology!
 
