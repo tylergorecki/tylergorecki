@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tyler Gorecki
 
 ## 🎓 About Me
-I am an **Aspiring Data Science Professional** and current **Master's student in Data Science at the University of Virginia**, driven by a passion for predictive modeling and data-driven decision-making. With a solid background in applied statistics and business finance, I bridge technical data skills with strategic insights. My experience spans academic research, sports analytics, and public health studies.
+I am an **Aspiring Data Science Professional** and current **Master's student in Data Science at the University of Virginia**, driven by a passion for predictive modeling and data-driven decision-making. With a solid background in applied statistics and business, I bridge technical data skills with strategic insights. My experience spans academic research, sports analytics, business analytics, and public health studies. My career interests expand into business, finance, and tech data applications.
 
 - **Current Roles**:
   - **Co-director of the UVA Baseball Data Analytics Team**: Leading data collection and analysis to optimize team strategies.
