@@ -4,8 +4,8 @@
 I am an **Aspiring Data Science Professional** and current **Master's student in Data Science at the University of Virginia**, driven by a passion for predictive modeling and data-driven decision-making. With a solid background in applied statistics and business, I bridge technical data skills with strategic insights. My experience spans academic research, sports analytics, business analytics, and public health studies. My career interests expand into business, finance, and tech data applications.
 
 - **Current Roles**:
-  - **Co-director of the UVA Baseball Data Analytics Team**: Leading data collection and analysis to optimize team strategies.
   - **Researcher at the UVA Sports Science and Analytics Collective**: Building an innovative data pipeline for the UVA Men's Basketball Team, including moving data from api to cloud storage to dashboard for real-time insights.
+  - **Co-director of the UVA Baseball Data Analytics Team**: Leading data collection and analysis to optimize team strategies.
 - **Research Projects**:
   - Developed a **transfer portal dashboard** for UVA Men's Basketball (private), facilitating recruitment processes.
   - Created an [**MLB expected runs model**](https://github.com/tylergorecki/mlb-expected-runs) using R and MLB Statcast data.
