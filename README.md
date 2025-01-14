@@ -10,6 +10,7 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
   - Developed a **transfer portal dashboard** for UVA Men's Basketball (private), facilitating recruitment processes.
   - Created an [**MLB expected runs model**](https://github.com/tylergorecki/mlb-expected-runs) using R and MLB Statcast data.
   - Created a [**CFB expected points model**](https://github.com/tylergorecki/cfb-expected-points) using R and college football play-by-play data.
+  - Acting as a business analytics team for a media company, my group and I created an **Online News Popularity Predictor** which implemented advanced ML algorithms (XGBoost, CatBoost) to predict the likelihood and explain the important features of more popular articles.
 
 ## 💼 Professional Experience
 - **UVA Baseball Data Analytics Team**: Engineered pitcher and umpire reports, enhancing team preparation with data-driven insights.
@@ -20,10 +21,6 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 - **Languages**: R, Python, SQL, C, Java
 - **Tools**: Git, Snowflake, Databricks, Power BI, Excel, SAS
 - **Techniques**: Machine learning, Bayesian statistics, predictive modeling, web scraping, data visualization, dashboard creation
-
-## 🌟 Notable Projects
-- **College Football Expected Points Model**: Modeled strategic play scenarios using Bayesian analysis and logistic regression.
-- **Online News Popularity Predictor**: Implemented advanced ML algorithms (XGBoost, CatBoost) to achieve a high AUC score.
 
 ## 📘 Education
 - **M.S., Data Science** at University of Virginia (Graduating May 2025)
