@@ -5,10 +5,11 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 
 - **Current Roles**:
   - **Co-director of the UVA Baseball Data Analytics Team**: Leading data collection and analysis to optimize team strategies.
-  - **Researcher at the UVA Sports Science and Analytics Collective**: Building innovative data pipelines and dashboards for real-time insights.
+  - **Researcher at the UVA Sports Science and Analytics Collective**: Building an innovative data pipeline for the UVA Men's Basketball Team, including moving data from api to cloud storage to dashboard for real-time insights.
 - **Research Projects**:
-  - Created an **MLB expected runs model** using R and Statcast data.
   - Developed a **transfer portal dashboard** for UVA Basketball, facilitating recruitment processes.
+  - Created an **MLB expected runs model** using R and MLB Statcast data.
+  - Created an **CFB expected points model** using R and college football play-by-play data.
 
 ## 💼 Professional Experience
 - **UVA Baseball Data Analytics Team**: Engineered pitcher and umpire reports, enhancing team preparation with data-driven insights.
@@ -21,7 +22,7 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 - **Techniques**: Machine learning, Bayesian statistics, predictive modeling, web scraping, data visualization, dashboard creation
 
 ## 🌟 Notable Projects
-- **College Football Expected Points Model**: Modeled strategic play scenarios using Bayesian analysis and logistic regression.
+- [**College Football Expected Points Model**](https://github.com/tylergorecki): Modeled strategic play scenarios using Bayesian analysis and logistic regression.
 - **Online News Popularity Predictor**: Implemented advanced ML algorithms (XGBoost, CatBoost) to achieve a high AUC score.
 
 ## 📘 Education
