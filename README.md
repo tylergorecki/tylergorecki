@@ -22,7 +22,7 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 - **Techniques**: Machine learning, Bayesian statistics, predictive modeling, web scraping, data visualization, dashboard creation
 
 ## 🌟 Notable Projects
-- [**College Football Expected Points Model**](https://github.com/tylergorecki): Modeled strategic play scenarios using Bayesian analysis and logistic regression.
+- [**College Football Expected Points Model**](https://github.com/tylergorecki/cfb-expected-points): Modeled strategic play scenarios using Bayesian analysis and logistic regression.
 - **Online News Popularity Predictor**: Implemented advanced ML algorithms (XGBoost, CatBoost) to achieve a high AUC score.
 
 ## 📘 Education
@@ -34,20 +34,4 @@ I am an **Aspiring Data Science Professional** and current **Master's student in
 - **GitHub**: [github.com/tylergorecki](https://github.com/tylergorecki)
 - **Twitter**: [x.com/tg_analytics](https://x.com/tg_analytics)
 
-I'm excited to connect with fellow data enthusiasts and collaborate on projects that blend analytics, finance, and technology!
-
-
-<!--
-**tylergorecki/tylergorecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm excited to connect with fellow data enthusiasts and collaborate on projects that blend analytics, business, finance, and technology!
