@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Tyler Gorecki
 
 ## 🎓 About Me
-I am an **Aspiring Data Science Professional** and current **Master's student in Data Science at the University of Virginia**, driven by a passion for predictive modeling and data-driven decision-making. With a solid background in applied statistics and business, I bridge technical data skills with strategic insights. My experience spans academic research, sports analytics, business analytics, and public health studies. My career interests expand into business, finance, and tech data applications.
+I am an **Aspiring Data Science Professional** and current **Master's student in Data Science at the University of Virginia**, driven by a passion for predictive modeling and data-driven decision-making. With a solid background in applied statistics and business, I bridge technical data skills with strategic insights. My experience spans academic research, business analytics, sports analytics, and public health studies. My career interests expand into business, finance, and tech data applications.
 
 - **Current Roles**:
   - **Researcher at the UVA Sports Science and Analytics Collective**: Building an innovative data pipeline for the UVA Men's Basketball Team, including moving data from api to cloud storage to dashboard for real-time insights.
   - **Co-director of the UVA Baseball Data Analytics Team**: Leading data collection and analysis to collect data that can be utilized in team analysis/strategy.
 - **Research Projects**:
-  - Developed a private **transfer portal dashboard** for UVA Men's Basketball (private), facilitating recruitment processes in the offseason.
+  - Developed a **transfer portal dashboard** for UVA Men's Basketball (private), facilitating recruitment processes in the offseason.
   - Created a [**MLB expected runs model**](https://github.com/tylergorecki/mlb-expected-runs) using R and MLB Statcast data, which simulated the success of many variations of lineup constructions based on hitter types.
   - Created a [**CFB expected points model**](https://github.com/tylergorecki/cfb-expected-points) using R and college football play-by-play data to assist decision making on long field goals.
   - Acting as a business analytics team for a media company, my group and I created an **Online News Popularity Predictor** which implemented advanced ML algorithms (XGBoost, CatBoost) to predict the likelihood and explain the important features of more popular articles.
